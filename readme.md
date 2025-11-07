@@ -4,8 +4,8 @@ A Django project for the hackathon.
 
 ## Setup
 
-1. **Clone the repo**
 ```bash
+1. Clone the repo
 git clone https://github.com/SourTik/ATUSoltelcoHackathon2025.git
 cd ATUSoltelcoHackathon2025
 
