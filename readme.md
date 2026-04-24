@@ -6,7 +6,7 @@ A Django project for the hackathon.
 
 ```bash
 1. Clone the repo
-git clone https://github.com/SourTik/ATUSoltelcoHackathon2025.git
+git clone https://github.com/SourTik/ATUSoltelcoHackathon2025
 cd ATUSoltelcoHackathon2025
 
 2. Create and activate a virtual environment
